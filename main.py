@@ -1,4 +1,3 @@
-
 def tryme():
     """
         A simple number guessing game.
